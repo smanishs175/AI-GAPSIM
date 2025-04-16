@@ -43,7 +43,7 @@ AI-GAPSIM (Artificial Intelligence Geospatial Atmosphere Power System Interactio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-GAPSIM.git
+   git clone https://github.com/smanishs175/AI-GAPSIM.git
    cd AI-GAPSIM
    ```
 
